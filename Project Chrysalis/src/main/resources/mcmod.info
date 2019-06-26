@@ -1,0 +1,16 @@
+[
+{
+  "modid": "projectchrysalis",
+  "name": "Bitl's Chillspot Server Plugin",
+  "description": "gamers homophobic. fluttershy best horse",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bitl"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

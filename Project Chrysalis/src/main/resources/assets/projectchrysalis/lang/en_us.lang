@@ -1,0 +1,12 @@
+# Items
+# item.tutorialmod.first_item.name=First Item
+item.projectchrysalis.chicken_nuggies.name=Chicken Nugget
+item.projectchrysalis.unbreaded_chicken_nuggies.name=Unbreaded Chicken Nugget
+item.projectchrysalis.frying_oil.name=Frying Oil
+
+# Blocks
+# tile.tutorialmod.first_block.name=First Block
+
+# Tabs
+# itemGroup.tutorialmod=Tutorial Mod
+itemGroup.projectchrysalis=Queen Chrysalis' Lovely Creative Tab With Chicken Nuggies

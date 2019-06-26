@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectchrysalis:unbreaded_chicken_nuggies"
+    },
+	{
+      "item": "projectchrysalis:frying_oil"
+    }
+  ],
+  "result": {
+    "item": "projectchrysalis:chicken_nuggies",
+	"count": 1
+  }
+}
